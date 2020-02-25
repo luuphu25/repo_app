@@ -1,8 +1,7 @@
 version: 1.4.3
 files:
   - url: ufs_1.4.3.exe
-    sha512: 4v7gJ3Ytn7vTAMGhsTSwryt2dYIurhgt81HKQNniU5fUKjRI5HcSLaWjldUEbFLJjNTOtPmR7YRo8lb+bcs4gg==
-    size: 52743712
+    sha512: TyM9TpIt8E1Iar/nrj4LMzwi8k/pmC7v7fyWtjvbttWU/xASseuSZx3ZfZj6ckXNTeE+UITgQla8xp3onFnTng==
 path: ufs_1.4.3.exe
-sha512: 4v7gJ3Ytn7vTAMGhsTSwryt2dYIurhgt81HKQNniU5fUKjRI5HcSLaWjldUEbFLJjNTOtPmR7YRo8lb+bcs4gg==
+sha512: TyM9TpIt8E1Iar/nrj4LMzwi8k/pmC7v7fyWtjvbttWU/xASseuSZx3ZfZj6ckXNTeE+UITgQla8xp3onFnTng==
 releaseDate: '2020-02-25T03:49:05.448Z'
